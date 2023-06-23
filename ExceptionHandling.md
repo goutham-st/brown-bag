@@ -38,7 +38,7 @@ The important keywords here are `try`, `throw`, and `catch`.
 
 These are some of the exceptions included in `std::exception`:
 
-![image](https://github.com/goutham-st/brown-bag/assets/78628850/5d1f6971-4812-4640-b129-d8295d6068db)
+![image](https://github.com/goutham-st/brown-bag/assets/78628850/304be370-bfca-407c-8f41-04adcb6419f8)
 
 ### Division by 0 example
 ```cpp
